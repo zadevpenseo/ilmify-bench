@@ -1,0 +1,20 @@
+{
+  "name": "ilmify-bench",
+  "version": "1.0.0",
+  "description": "Open-science deterministic epistemic benchmark & verification suite for Ilmify (ilmify.id)",
+  "type": "module",
+  "main": "src/scholar-lint.js",
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "keywords": [
+    "statcheck",
+    "p-curve",
+    "aiken-v",
+    "metascience",
+    "epistemic-provenance",
+    "ilmify"
+  ],
+  "author": "Dewan Kurator Ilmify (Open Epistemic Provenance Initiative)",
+  "license": "Apache-2.0"
+}
